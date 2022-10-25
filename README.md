@@ -21,5 +21,5 @@ The following software has to be installed:
 - Now you can send the GEQ values to any ouput of the SQ mixer by pressing the corresponding button.
 
 ### References
-[1] https://www.roomeqwizard.com/ 
+[1] https://www.roomeqwizard.com/ <br>
 [2] https://nodejs.org/en/
