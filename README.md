@@ -20,6 +20,10 @@ The following software has to be installed:
 - Import the REW *.txt* file. 
 - Now you can send the GEQ values to any ouput of the SQ mixer by pressing the corresponding button.
 
+### Licence
+This sotware is released under [MIT](LICENSE) licence.<br>
+Copyright &copy; Lukas Gölles, 2022
+
 ### References
 [1] https://www.roomeqwizard.com/ <br>
 [2] https://nodejs.org/en/
